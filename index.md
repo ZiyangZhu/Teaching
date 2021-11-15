@@ -1,7 +1,7 @@
 ### [Home](https://ziyangzhu.github.io/Home/)
 ## Teaching
 ### Current courses
-- **Dynamic Systems**. 2021 Fall, 48 class hours, graduated students, [CNU](https://cnu.edu.cn/).
+- **Dynamical Systems**. 2021 Fall, 48 class hours, graduated students, [CNU](https://cnu.edu.cn/).
 
   10:00-12:00 (UTC+8), Every Thursday. Room 610, The 2nd teaching building, Capital Normal University.
 
