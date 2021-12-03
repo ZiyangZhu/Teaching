@@ -15,4 +15,4 @@
 
 ### [Lecture Notes](https://ziyangzhu.github.io/Notes/)
 ### [Works](https://ziyangzhu.github.io/Works/)
-### [Useful links](https://ziyangzhu.github.io/Links/)
+### [Useful Links](https://ziyangzhu.github.io/Links/)
