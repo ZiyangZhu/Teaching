@@ -2,7 +2,10 @@
 ## Teaching
 ### Current courses
 - **Mathematical Analysis II**. 2022 Spring, teaching assistant, undergraduate students, [CNU](https://cnu.edu.cn/).
-- **Low Dimensional Topology**. 2022 Spring, 48 class hours, graduate students, [CNU](https://cnu.edu.cn/).
+
+- **Algebraic Geometry**. 2022 Spring, 48 class hours, graduate students, [CNU](https://cnu.edu.cn/).
+
+  Every Saturday, 14:00-17:00. 513, 2nd teaching building, main campus, CNU.
 
 ### Past courses
 - **Dynamical Systems**. 2021 Fall, 48 class hours, graduate students, [CNU](https://cnu.edu.cn/).
