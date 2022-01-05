@@ -3,9 +3,9 @@
 ### Current courses
 - **Mathematical Analysis II**. 2022 Spring, teaching assistant, undergraduate students, [CNU](https://cnu.edu.cn/).
 
-- **Algebraic Geometry**. 2022 Spring, 48 class hours, graduate students, [CNU](https://cnu.edu.cn/).
+- **Algebraic Topology**. 2022 Spring, 64 class hours, graduate students, [CNU](https://cnu.edu.cn/).
 
-  14:00-17:00, every Saturday. Room 513, the 2nd teaching building, main campus, CNU.
+  14:00-17:00, every saturday. Room 513, the 2nd teaching building, main campus.
 
 ### Past courses
 - **Dynamical Systems**. 2021 Fall, 48 class hours, graduate students, [CNU](https://cnu.edu.cn/).
