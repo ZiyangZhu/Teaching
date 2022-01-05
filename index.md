@@ -5,7 +5,7 @@
 
 - **Algebraic Geometry**. 2022 Spring, 48 class hours, graduate students, [CNU](https://cnu.edu.cn/).
 
-  Every Saturday, 14:00-17:00. 513, 2nd teaching building, main campus, CNU.
+  14:00-17:00, every Saturday. Room 513, the 2nd teaching building, main campus, CNU.
 
 ### Past courses
 - **Dynamical Systems**. 2021 Fall, 48 class hours, graduate students, [CNU](https://cnu.edu.cn/).
